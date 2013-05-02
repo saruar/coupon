@@ -1,0 +1,101 @@
+
+
+div.itemrow_desc {
+	float: left;
+	width: 100px;
+	margin-left: 5px;
+}
+
+div.subtot_col1 {
+	width: 204px;
+	float: left;
+	margin-left: 5px;
+}
+
+div.subtot_col2 {
+	width: 70px;
+	float: left;
+}
+
+div.subtot_col3 {
+	width: 80px;
+	float: left;
+	text-align: right;
+}
+
+div.subtotalrow {
+ width: 440px;
+ float: left;
+}
+
+div.itemcontainer {
+	width: 515px;
+	float: left;
+	line-height: 27px;
+}
+
+div.addr_col1 {
+	width: 145px;
+	float: left;
+	margin-left: 5px;
+}
+
+div.addr_col2 {
+	width: 350px;
+	float: left;
+	
+}
+
+div.addrcontainer {
+	width: 515px;
+	float: left;
+	line-height: 27px;
+}
+
+div.cartHeaders {
+	width: 515px;
+	float: left;
+	background-color: #efefef;
+	line-height: 27px;
+	font-weight:bold;
+}
+
+
+div.itemContainer {
+	padding:5px 0px;
+}
+
+div.itemName {
+	width: 100px;
+	float: left;
+}
+
+div.itemos0 {
+	width: 80px;
+	float: left;
+	
+}
+
+div.itemPrice {
+	width: 50px;
+	float: left;
+	text-align: center;
+}
+
+div.itemQuantity {
+	width: 70px;
+	float: left;
+	text-align: center;
+}
+
+div.itemTotal {
+	width: 75px;
+	float: left;
+	text-align: center;
+}
+
+div.itemremove {
+	float: left;
+	text-align: center;
+	width:60px;
+}

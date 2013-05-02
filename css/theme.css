@@ -1,0 +1,95 @@
+body {
+	color:#333333;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.info_text p{
+	}
+#page {
+	width:515px;
+}
+#page h2 {
+    color: #393939;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    padding: 0 0 12px;
+}
+#page h3{
+	color: #393939;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 24px;
+	margin:0px;
+	font-family: 'Open Sans', sans-serif;
+	}
+
+.cl {
+	clear:both;
+}
+.simpleCart_items {
+	width:515px;
+	overflow:hidden;
+}
+.itemContainer {
+	float:left;
+}
+.inputText {
+    background: url("../images/bg-input.gif") repeat-x scroll 0 0 #FBFAFB;
+    border: 1px solid #DADADA;
+    border-radius: 5px 5px 5px 5px;
+    color: #333333;
+    float: left;
+    padding: 3px;
+    width: 200px;
+}
+
+select {
+    color: #333333;
+}
+/*--------------------------
+		Content
+--------------------------*/
+
+.sf_content {	
+	width:auto;
+	clear: both;
+	padding: 0;
+	margin:10px 35px 10px 35px;	
+}
+
+.sf_content img {	
+}
+
+.sf_content:after {
+    content: ".";
+    display: block;
+    visibility: hidden;
+    height: 0;
+    font-size: 1px;
+    clear: both;
+}
+
+.style2 {
+}
+
+.style2 a{	
+	color: #800080;
+}
+
+.pgtitle {
+	text-align: left;
+	color: #800080;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	clear:both;
+	margin:0px 45px 10px 45px;
+	font-weight: normal;
+	font-size: 22px;
+	width:auto;
+
+}
+
+

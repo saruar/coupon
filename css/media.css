@@ -1,0 +1,76 @@
+.simpleCart_items, #checkoutrow {
+	width:500px;
+	overflow:hidden;
+}
+.itemos0, .itemPrice, .itemQuantity, .itemTotal, .itemremove  {
+	float:left;
+}
+.itemos0 {
+	width: 220px;
+}
+.itemPrice, .itemQuantity, .itemTotal, .itemremove {
+	width:70px;
+}
+.subtotalrow {
+	width:500px;
+	overflow:hidden;
+}
+.subtot_col1 {
+	float:left;
+	width:260px;
+	height:22px;
+}
+.subtot_col2 {
+	float:left;
+	width:120px;
+}
+.subtot_col2 {
+	float:left;
+	width:120px;
+}
+.cl {
+	clear:both;
+}
+#btn_shipping {
+	display:none;
+}
+.itemremove {
+	display:none;
+}
+
+/*===================Shipping Address======================*/
+#shippingAddress{
+	width:480px;
+	}
+#shippingAddress h3{
+	color: #333;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 30px;
+	font-family: 'Open Sans', sans-serif;
+	}
+.addressRow{
+	width:480px;
+	margin-bottom:5px;
+	overflow:hidden;
+	}
+.addressRow .ship_label{
+	float:left;
+	width:105px;
+	color: #333333;
+	font-size:16px;
+	}
+.inputText{
+	width:200px;
+	float:left;
+	color: #333333;
+	background: url(../bg-input.gif) repeat-x scroll 0 0 #FBFAFB;
+    border: 1px solid #DADADA;
+    border-radius: 5px 5px 5px 5px;
+    padding: 3px;
+	}
+.addressRow span{
+	color: #333333;
+	font-size:14px;
+	margin-left:5px;
+	}

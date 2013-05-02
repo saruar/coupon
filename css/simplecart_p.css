@@ -1,0 +1,99 @@
+table {
+	width:600px;
+}
+.simpleCart_items {
+	width:515px;
+	overflow:hidden;
+}
+.itemContainer {
+	float:left;
+}
+.inputText {
+    background: url("../images/bg-input.gif") repeat-x scroll 0 0 #FBFAFB;
+    border: 1px solid #DADADA;
+    border-radius: 5px 5px 5px 5px;
+    color: #333333;
+    float: left;
+    padding: 3px;
+    width: 200px;
+}
+
+p.notes {
+width: 650px;
+}
+div.print_hide {
+display: none;
+}
+div.itemrow_desc {
+float: left;
+width: 100px;
+margin-left: 5px;
+}
+div.subtotalrow {
+width: 480px;
+}
+div.subtot_col1 {
+width: 305px;
+float: left;
+margin-left: 5px;
+}
+div.subtot_col2 {
+width: 110px;
+float: left;
+}
+div.subtot_col3 {
+width: 60px;
+float: left;
+}
+div.addr_col1 {
+width: 195px;
+float: left;
+margin-left: 5px;
+}
+div.addr_col2 {
+width: 303px;
+float: left;
+}
+div.addrcontainer {
+width: 650px;
+float: left;
+line-height: 27px;
+}
+div.cartHeaders {
+width: 480px;
+line-height: 27px;
+background-color: #efefef;
+}
+div.itemContainer {
+width: 480px;
+line-height: 27px;
+}
+div.itemName {
+width: 150px;
+float: left;
+margin-left: 5px;
+}
+div.itemos0 {
+width: 150px;
+float: left;
+}
+div.itemPrice {
+width: 55px;
+float: left;
+text-align: center;
+}
+div.itemQuantity {
+width: 55px;
+float: left;
+text-align: center;
+}
+div.itemTotal {
+width: 55px;
+float: left;
+text-align: center;
+}
+div.itemremove {
+display: none;
+float: left;
+text-align: center;
+}

@@ -1,0 +1,298 @@
+.container_24 {
+	margin:0px;
+	padding:0px;
+	width:510px;
+	margin:0 auto;
+}
+.container_24 h2{
+	color: #333;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 30px;
+	font-family: 'Open Sans', sans-serif;
+	}
+#wrapper {
+	clear:both;
+}
+.simpleCart_items {
+	color:#333;
+	overflow:hidden;
+}
+div.cartHeaders {
+	float:left;
+	background-color:#efefef;
+	line-height:27px;
+}
+div.itemContainer {
+	width:480px;
+	float: left;
+	line-height: 27px;
+	clear:both;
+}
+.top_item {
+	width:480px;
+	float:left;
+	padding-bottom:5px;
+}
+.B_item {
+	width:480px;
+	color:#333;
+}
+select {
+	height:22px;
+	color:#333;
+}
+.itemrow_desc {
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 26px;
+}
+.item_quantity {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #DDDDDD;
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0;
+	outline: 0 none;
+	overflow: hidden;
+	padding: 5px;
+	vertical-align: middle;
+	width: 270px;
+}
+#s1 {
+	width:106px;
+	height:34px;
+	margin:20px 0;
+	font-size:12px;
+	line-height:34px;
+	color:#fff;
+	border:none;
+	cursor:pointer;
+	font-family:Arial, Helvetica, sans-serif;
+	background:url(../add.jpg) no-repeat;
+}
+.checkout {
+	width:90px;
+	height:34px;
+	margin:20px 12px;
+	font-size:12px;
+	line-height:34px;
+	color:#fff;
+	float:right;
+	border:none;
+	cursor:pointer;
+	font-family:Arial, Helvetica, sans-serif;
+	background:url(../check.jpg) no-repeat;
+}
+div.itemrow_desc {
+	float:left;
+	width:100px;
+	margin-left:5px
+}
+#subtotalrow {
+	color:#333;
+}
+div.subtot_col1 {
+	width:195px;
+	float:left;
+	margin-left:5px
+}
+div.subtot_col2 {
+	width:70px;
+	float:left;
+}
+div.subtot_col2b {
+	width:90px;
+	float:left;
+	color:#333;
+}
+
+div.subtot_col3 {
+	width:100px;
+	float:left;
+	text-align:right;
+}
+div.subtot_col3b {
+	width:80px;
+	float:left;
+	text-align:right;
+	color:#333;
+}
+div.subtotalrow {
+	width:510px;
+}
+div.itemcontainer {
+	width:480px;
+	float:left;
+	margin-left:3px
+}
+div.addr_col1 {
+	width:145px;
+	float:left;
+	margin-left:5px
+}
+div.addr_col2 {
+	width:400px;
+	float:left
+}
+div.addrcontainer {
+	float:left;
+	background-color:#efefef;
+	line-height:27px
+}
+div.itemName {
+	width:160px;
+	float:left;
+	margin-left:5px
+}
+div.itemos0 {
+	width:190px;
+	float:left
+}
+div.itemPrice {
+	width:60px;
+	float:left;
+	text-align:center;
+}
+div.itemQuantity {
+	width:60px;
+	float:left;
+	text-align:center;
+}
+div.itemTotal {
+	width:70px;
+	float:left;
+	text-align:center;
+}
+div.itemremove {
+	float:right;
+	text-align:center;
+}
+div.itemremove a .button1 {
+	width:90px;
+	height:34px;
+	font-size:12px;
+	line-height:34px;
+	color:#fff;
+	border:none;
+	cursor:pointer;
+	font-family:Arial, Helvetica, sans-serif;
+	background:url(../remove.jpg) no-repeat;
+}
+
+
+
+/*===================Shipping Address======================*/
+#shippingAddress{
+	width:480px;
+	}
+#shippingAddress h3{
+	color: #333;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 30px;
+	font-family: 'Open Sans', sans-serif;
+	}
+.addressRow{
+	width:480px;
+	margin-bottom:5px;
+	overflow:hidden;
+	}
+.addressRow .ship_label{
+	float:left;
+	width:105px;
+	color: #333333;
+	font-size:16px;
+	}
+.inputText{
+	width:200px;
+	float:left;
+	color: #333333;
+	background: url(../bg-input.gif) repeat-x scroll 0 0 #FBFAFB;
+    border: 1px solid #DADADA;
+    border-radius: 5px 5px 5px 5px;
+    padding: 3px;
+	}
+.addressRow span{
+	color: #333333;
+	font-size:14px;
+	margin-left:5px;
+	}
+#btn_shipping{
+	width:130px;
+	height:34px;
+	font-size:12px;
+	line-height:34px;
+	color:#fff;
+	border:none;
+	cursor:pointer;
+	font-family:Arial, Helvetica, sans-serif;
+	background:url(../CalculateShipping.jpg) no-repeat;
+	}
+/***************** New for Coupon *****************************/
+#coupon_box {
+	width:480px;
+}
+.cl {
+	clear:both;
+}
+
+#coupon_code td{
+	color: #333333;
+	}
+#coupon_discount00{
+	padding-right:15px;
+	}
+#PromoCode{
+	line-height:30px;
+	}
+#coupon_btn{
+	padding-top:10px;
+	}
+#btn_coupon{
+	width:90px;
+	height:34px;
+	margin-top:10px;
+	font-size:12px;
+	line-height:34px;
+	color:#fff;
+	border:none;
+	cursor:pointer;
+	font-family:Arial, Helvetica, sans-serif;
+	background:url(../validate.jpg) no-repeat;
+	}
+/***/
+#product_info h3{
+	color: #393939;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+	padding-bottom:10px;
+	margin:0px;
+	}
+.info{
+	margin:0;
+	padding:0;
+	}
+.info h3{
+	padding-top:10px;
+	margin:0px;
+	color: #333333;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight:normal;
+	}
+.info p{
+	color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+	padding:10px 0 0 20px;
+	margin:0px;
+	}
